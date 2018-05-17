@@ -1,0 +1,36 @@
+.navbar-inverse {
+    background-color: #080808;
+    border-color: #080808;
+    padding-bottom: 15px;
+    color: white;
+    }
+
+.nav navbar-nav navbar-left{
+	font-size: 20px;
+}
+body{
+	background-color: #BAAAAA ;
+
+
+	
+}
+#content{
+	text-align: center;
+	padding-top: 10%;
+	background-color: #BAAAAA;
+}
+.order{
+	
+    padding-left: 60px;
+
+}
+h2{
+	padding-left: 100px;
+}
+ul{
+	text-align: center;
+}
+.nam{
+	text-align: center;
+	margin: 25px 390px;
+}
